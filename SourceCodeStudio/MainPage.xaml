@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SourceCodeStudio.MainPage">
+
+    <StackLayout>
+        <StackLayout Padding="20">
+            
+            <Label Text="Welcome to Maps" 
+                   FontSize="18"
+                   FontAttributes="Bold"
+                   TextColor="Black"
+                   HorizontalOptions="CenterAndExpand" 
+                   VerticalOptions="CenterAndExpand"/>
+            <Button Text="Go to Next page" 
+                    BackgroundColor="Green"
+                    Clicked="NavigateTonext" HorizontalOptions="CenterAndExpand" Margin="10"/>
+
+            <Button Text="Show My Location on Map" 
+                    BackgroundColor="Green"
+                    Clicked="OnShowLocationClicked" HorizontalOptions="CenterAndExpand" Margin="10"/>
+            <WebView x:Name="mapWebView" HeightRequest="500" WidthRequest="500" />
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

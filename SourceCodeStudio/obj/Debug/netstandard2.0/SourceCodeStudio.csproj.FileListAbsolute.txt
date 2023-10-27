@@ -1,0 +1,16 @@
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\SourceCodeStudio.csproj.AssemblyReference.cache
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\SourceCodeStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\SourceCodeStudio.AssemblyInfoInputs.cache
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\SourceCodeStudio.AssemblyInfo.cs
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\SourceCodeStudio.csproj.CoreCompileInputs.cache
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\SourceCodeStudio.dll
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\refint\SourceCodeStudio.dll
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\SourceCodeStudio.pdb
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\bin\Debug\netstandard2.0\SourceCodeStudio.deps.json
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\bin\Debug\netstandard2.0\SourceCodeStudio.dll
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\bin\Debug\netstandard2.0\ref\SourceCodeStudio.dll
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\bin\Debug\netstandard2.0\SourceCodeStudio.pdb
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Srava\OneDrive\Desktop\Mobile\SourceCodeStudio\SourceCodeStudio\obj\Debug\netstandard2.0\DogImagePage.xaml.g.cs
